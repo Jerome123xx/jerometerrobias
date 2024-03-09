@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\bin\Debug\TERROBIAS_PRELIM.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\bin\Debug\TERROBIAS_PRELIM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\bin\Debug\TERROBIAS_PRELIM.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\bin\Debug\TERROBIAS_PRELIM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TERROBIAS_PRELIM\TERROBIAS_PRELIM\obj\Debug\TERROBIAS_PRELIM.pdb

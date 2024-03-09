@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\bin\Debug\testapplication.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\bin\Debug\testapplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\bin\Debug\testapplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\bin\Debug\testapplication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.username_txtbox.resources
+c:\users\administrator\documents\visual studio 2015\Projects\testapplication\testapplication\obj\Debug\testapplication.Form2.resources
